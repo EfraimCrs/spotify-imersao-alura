@@ -4,3 +4,17 @@ body {
 h1 {
     color: white;
 }
+.sidebar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+}
+
+
+.sidebar__navigation {
+    background-color: rgb(175, 173, 173);
+    border-radius: 8px;
+    padding: 16px 0 0 16px;
+
+}
